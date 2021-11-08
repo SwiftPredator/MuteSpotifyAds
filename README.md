@@ -28,7 +28,7 @@ As of version `1.5.0` you can also enable a option to automatically skip ads, by
 
 ## Installation
 
-Via [homebrew](https://brew.sh/): `brew cask install mutespotifyads`
+Via [homebrew](https://brew.sh/): `brew install --cask mutespotifyads`
 
 Manual installation:
 
